@@ -120,7 +120,7 @@ The **Employee Data Management System** is a scalable data engineering project b
 ## 👤 Author
 
 **Priyansh Gupta**
-📧 [shishusha922@gmail.com](mailto:guptapriyansh646@gmail.com)
+📧 [guptapriyansh646@gmail.com](mailto:guptapriyansh646@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/priyansh-gupta-b30b18241/)
 🔗 [GitHub](https://github.com/priyansg01)
 
